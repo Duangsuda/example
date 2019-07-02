@@ -1,6 +1,6 @@
 <?php
 	echo "สวัสดี<br>";
 	
-	$fristname = "ดวงสุดา";
-	$lastname = "มูลคำ";
+	$fristname = "aaa";
+	$lastname = "bbb";
 	echo "ชื่อ-สกุล: " . $fristname . " " . $lastname . "<br>";
